@@ -45,7 +45,7 @@ namespace Department
             cmd.Clone();
             if (objDone == 1)
             {
-                Console.WriteLine("Employee Record Deleted Successfully");
+                Console.WriteLine("Department Record Deleted Successfully");
             }
         }
     }
